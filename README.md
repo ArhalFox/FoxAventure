@@ -8,4 +8,4 @@
 
 *୨୧ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ୨୧*
 
-**obs: ainda n esta com minha historia no site , estou ainda mexendo
+**obs: ainda n esta com minha historia no site , estou ainda mexendo**
