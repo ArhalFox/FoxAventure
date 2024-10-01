@@ -1,4 +1,4 @@
-  **Olá, conheçam a comunidade VTUBER** "  
+  **Olá, conheçam a comunidade a minha historia(teste)** "  
  
 -  [FoxAventure!](https://arhalfox.github.io/FoxAventure/) 
 
@@ -7,3 +7,4 @@
  ![](https://media.tenor.com/gSrfRHuAUCkAAAAj/gura-vtuber.gif)  
 
 *୨୧ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ୨୧*
+**obs: ainda n esta com minha historia no site , estou ainda mexendo
