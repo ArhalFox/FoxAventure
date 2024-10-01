@@ -1,0 +1,43 @@
+body {
+    background: radial-gradient(#3509fa, #0a022e);
+    color: aliceblue;
+    font-family: "Handjet", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    margin: 0;
+}
+
+button {
+    background-color: black;
+    color: rgb(255, 252, 252);
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+    animation: brilho 1.5s infinite alternate;
+}
+
+@keyframes brilho {
+    0% {
+        text-shadow: 0 0 5px #fff, 0 0 10px #fff;
+    }
+    100% {
+        text-shadow: 0 0 20px #ff0, 0 0 30px #ff0;
+    }
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
